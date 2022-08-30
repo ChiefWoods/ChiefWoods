@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ChiefWoods/ChiefWoods** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<li>:wave: Hello there! The name's Woods</li>
+<li>:computer: First year software engineering student</li>
+<li>:iphone: Android mobile development is my endgoal</li>
+<li>:guitar: Hobbies include bodybuilding, homecooking and guitar</li>
+<li>:bird: Feel free to reach out through my Twitter</li>
+
