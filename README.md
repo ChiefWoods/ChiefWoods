@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 <li>:wave: Hello there! The name's Woods</li>
-<li>:computer: First year software engineering student</li>
+<li>:computer: Aspiring software engineering student</li>
 <li>:iphone: Android mobile development is my endgoal</li>
 <li>:guitar: Hobbies include bodybuilding, homecooking and guitar</li>
 <li>:bird: Feel free to reach out through my Twitter</li>
