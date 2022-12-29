@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 <li>:computer: Aspiring software engineering student</li>
 <li>:iphone: Android mobile development is my endgoal</li>
 <li>:guitar: Hobbies include bodybuilding, homecooking and guitar</li>
+<li>:point_down: Check out my featured projects below</li>
 <li>:bird: Feel free to reach out through my Twitter</li>
-
