@@ -13,10 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<li>:wave: Hello there! The name's Woods</li>
-<li>:computer: Aspiring software engineering student</li>
-<li>:iphone: Android development is my endgoal</li>
-<li>:books: Hobbies include bodybuilding, homecooking and reading</li>
-<li>:point_down: Check out my featured projects below</li>
-<li>:star: Or head to the Stars tab above to browse more!</li>
+- Hello there! 👋 The name's Woods
+- Software engineering student 🎓
+- Looking to get into blockchain 🔗 and Web3
+- I lift 🏋️, cook 🍝 and read 📚
+- Check out my featured projects below 👇
+- Or head to the Stars ⭐ tab above to browse more!
