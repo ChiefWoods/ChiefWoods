@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 
 - Hello there! 👋 The name's Woods
-- Software engineering student 🎓
-- Looking to get into blockchain 🔗 and Web3
-- I lift 🏋️, cook 🍝 and read 📚
+- Software engineering graduate 🎓
+- Average web development and blockchain enjoyer 🗿
+- I lift 🏋️, cook 🍝, podcast 🎧 and read 📚
 - Check out my featured projects below 👇
 - Or head to the Stars ⭐ tab above to browse more!
